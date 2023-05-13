@@ -1,8 +1,8 @@
 package main
 
-type deputado struct {
-	nome          string
-	partido       string
-	estado        string
-	verbaGabinete float64
+type Deputado struct {
+	Nome          string
+	Partido       string
+	Estado        string
+	VerbaGabinete float64
 }
