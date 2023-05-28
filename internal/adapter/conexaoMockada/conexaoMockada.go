@@ -3,7 +3,7 @@ package conexaoMockada
 type ConexaoMockada struct {
 }
 
-func (conexaoHttp *ConexaoMockada) buscaDeputado() string {
+func (conexaoHttp *ConexaoMockada) BuscaDeputado() string {
 
 	return "Retornou"
 }

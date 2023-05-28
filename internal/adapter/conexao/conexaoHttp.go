@@ -3,6 +3,6 @@ package conexao
 type ConexaoHttp struct {
 }
 
-func (ConexaoHttp *ConexaoHttp) buscaDeputado() string {
+func (ConexaoHttp *ConexaoHttp) BuscaDeputado() string {
 	return ""
 }
